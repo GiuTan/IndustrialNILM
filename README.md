@@ -1,6 +1,6 @@
-# IndustrialNILM
+# Deep Learning-based IndustrialNILM
 
-# Power Signal Disaggregation with NILM and Deep Learning
+
 
 This repository provides tools for preprocessing and modeling power consumption data for **Non-Intrusive Load Monitoring (NILM)** using **deep learning**. It is tailored for industrial environments where multiple machines of the same type operate concurrently.
 
