@@ -51,3 +51,4 @@ This tool is designed to work with the following dataset:
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    ```
+Requirements.txt is the environment for processing the data, with the libraries required by NILMTK.

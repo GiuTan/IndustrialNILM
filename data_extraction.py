@@ -61,7 +61,7 @@ IMDELD_path = "IMDELD.hdf5"
 build = 1
 period = 10
 power_type = 'active'
-save_dir = 'CRNN_tf/processed_data/'
+save_dir = 'processed_data/'
 device = 'milling'
 
 os.mkdir(save_dir)
